@@ -1,3 +1,22 @@
 = ttsoft_locales
 
+== 概要
+
 日本語訳された文言で気になったところを更に変更してしまうというプラグインです。
+
+== 動作確認
+
+redmine 2.1.2.stable で動作確認済みです。
+
+== インストール
+
+ruby script/plugin install git://github.com/torut/redmine_ttsoft_locales.git
+
+== ライセンス
+
+GNU General Public License, version 2 (GPLv2)
+
+== 連絡先
+
+Toru Tamura (torut)
+http://ttsoft.jp

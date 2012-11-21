@@ -3,6 +3,6 @@ Redmine::Plugin.register :ttsoft_locales do
   author 'Toru Tamura(torut)'
   description 'This is a override ja locale plugin for Redmine'
   version '0.0.1'
-  url 'https://github.com/torut/redmine_locales_plugin'
+  url 'https://github.com/torut/redmine_ttsoft_locales'
   author_url 'http://ttsoft.jp/'
 end

@@ -10,7 +10,8 @@ redmine 2.1.2.stable で動作確認済みです。
 
 == インストール
 
-ruby script/plugin install git://github.com/torut/redmine_ttsoft_locales.git
+plugins ディレクトリで git clone してください。
+# git clone git://github.com/torut/redmine_ttsoft_locales.git
 
 == ライセンス
 
